@@ -3,4 +3,4 @@ numpy
 pandas
 seaborn
 sklearn
-basemap
+#basemap doesnt work with mybinder
